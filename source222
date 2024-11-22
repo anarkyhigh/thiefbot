@@ -1,0 +1,7 @@
+ .
+ .
+ .
+ String[] Not_inject_app = new String[]{"com.android.vending", "com.google.android.gms", "com.skype.raider", "com.viber.voip", "com.ykb.android", "com.google.android.gm"};
+ .
+ .
+ .

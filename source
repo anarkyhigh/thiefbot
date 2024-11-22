@@ -1,0 +1,9 @@
+ .
+ .
+ .
+     if (this.getResources().getConfiguration().locale.getCountry() == "RU") {
+        System.exit(0);
+     }
+ .
+ .
+ .
